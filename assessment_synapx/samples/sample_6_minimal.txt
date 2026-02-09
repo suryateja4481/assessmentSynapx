@@ -1,0 +1,3 @@
+Policy Number: PN-2026-6006
+Claim Type: vehicle
+# Minimal report with missing mandatory fields: no Policyholder Name, no Date, no Location, no Initial Estimate

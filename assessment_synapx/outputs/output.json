@@ -1,0 +1,31 @@
+{
+  "extractedFields": {
+    "Policy Number": null,
+    "Policyholder Name": null,
+    "Effective Dates": null,
+    "Date": "OF BIRTH",
+    "Time": null,
+    "Location": "OF LOSS",
+    "Description": null,
+    "Claimant": null,
+    "Third Parties": null,
+    "Contact Details": null,
+    "Asset Type": null,
+    "Asset ID": null,
+    "Initial Estimate": null,
+    "Claim Type": null,
+    "Attachments": null
+  },
+  "missingFields": [
+    "Policy Number",
+    "Policyholder Name",
+    "Effective Dates",
+    "Description",
+    "Claimant",
+    "Asset Type",
+    "Initial Estimate",
+    "Claim Type"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Routing to Manual Review due to extensive missing information."
+}

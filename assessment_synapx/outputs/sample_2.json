@@ -1,0 +1,22 @@
+{
+  "extractedFields": {
+    "Policy Number": "PN-2026-1002",
+    "Policyholder Name": "Bob Singh",
+    "Effective Dates": "03/15/2026 - 03/14/2027",
+    "Date": "03/20/2026",
+    "Time": "02:15 PM",
+    "Location": "120 Market St, Downtown",
+    "Description": "Claimant reports slip and fall in store; alleged head injury and dizziness.",
+    "Claimant": "Bob Singh",
+    "Third Parties": null,
+    "Contact Details": "bob.s@example.com, +1-555-0202",
+    "Asset Type": "Personal Injury",
+    "Asset ID": null,
+    "Initial Estimate": 50000.0,
+    "Claim Type": "injury",
+    "Attachments": "witness_statement.pdf"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Specialist Queue",
+  "reasoning": "Routing to Specialist Queue due to head injury claim.\n\n Missing fields: \n- Asset ID \n\nSuggested next steps: \n- Request additional information about asset ID and witness statement."
+}

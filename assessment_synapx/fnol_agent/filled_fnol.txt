@@ -1,0 +1,22 @@
+Policy Number: PN123456
+Carrier: ABC Insurance
+
+Name of Insured: Rahul Sharma
+Insured Mailing Address: Bangalore
+
+Date of Loss: 12/01/2026 10:30 AM
+Location of Loss: MG Road, Bangalore
+
+Description of Accident: Minor collision with another car at signal
+
+Vehicle Make: Honda
+Vehicle Model: City
+VIN: VIN987654
+
+Estimated Damage: 18000
+
+Driver Name: Rahul Sharma
+Owner Name: Rahul Sharma
+
+Injury: No
+Claim Type: vehicle

@@ -1,0 +1,31 @@
+{
+  "extractedFields": {
+    "Policy Number": "PN-2026-6006",
+    "Policyholder Name": null,
+    "Effective Dates": null,
+    "Date": null,
+    "Time": null,
+    "Location": null,
+    "Description": null,
+    "Claimant": null,
+    "Third Parties": null,
+    "Contact Details": null,
+    "Asset Type": null,
+    "Asset ID": null,
+    "Initial Estimate": null,
+    "Claim Type": "vehicle",
+    "Attachments": null
+  },
+  "missingFields": [
+    "Policyholder Name",
+    "Effective Dates",
+    "Date",
+    "Location",
+    "Description",
+    "Claimant",
+    "Asset Type",
+    "Initial Estimate"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Manual Review needed due to missing key details."
+}

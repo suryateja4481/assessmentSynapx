@@ -1,0 +1,22 @@
+{
+  "extractedFields": {
+    "Policy Number": "PN-2026-3003",
+    "Policyholder Name": "Carol Mendes",
+    "Effective Dates": "05/01/2026 - 04/30/2027",
+    "Date": "05/12/2026",
+    "Time": null,
+    "Location": "78 Industrial Ave",
+    "Description": "Report indicates possible staged accident; statements inconsistent with photos.",
+    "Claimant": "Carol Mendes",
+    "Third Parties": null,
+    "Contact Details": "carol.m@example.com, +1-555-0303",
+    "Asset Type": "Vehicle",
+    "Asset ID": "VINZZZ999888777",
+    "Initial Estimate": 35000.0,
+    "Claim Type": "vehicle",
+    "Attachments": "photos.zip"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Investigation Flag",
+  "reasoning": "Routing Investigation Flag due to inconsistent statements. \n\nNoted suspicious field: inconsistent statements with photos."
+}

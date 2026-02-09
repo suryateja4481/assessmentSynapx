@@ -1,0 +1,13 @@
+Policy Number: PN-2026-3003
+Policyholder Name: Carol Mendes
+Effective Dates: 05/01/2026 - 04/30/2027
+Date of Loss: 05/12/2026
+Location of Loss: 78 Industrial Ave
+Description of Loss: Report indicates possible staged accident; statements inconsistent with photos.
+Claimant: Carol Mendes
+Contact Details: carol.m@example.com, +1-555-0303
+Asset Type: Vehicle
+Asset ID: VINZZZ999888777
+Initial Estimate: 35000
+Claim Type: vehicle
+Attachments: photos.zip

@@ -1,0 +1,26 @@
+{
+  "extractedFields": {
+    "Policy Number": null,
+    "Policyholder Name": "Daniel Park",
+    "Effective Dates": "07/01/2026 - 06/30/2027",
+    "Date": "07/15/2026",
+    "Time": null,
+    "Location": "220 Lakeside Blvd",
+    "Description": "Vehicle hit by unknown object in parking lot; claimant could not locate responsible party.",
+    "Claimant": null,
+    "Third Parties": null,
+    "Contact Details": "daniel.p@example.com",
+    "Asset Type": "Vehicle",
+    "Asset ID": "VINDAN123456",
+    "Initial Estimate": null,
+    "Claim Type": "vehicle",
+    "Attachments": null
+  },
+  "missingFields": [
+    "Policy Number",
+    "Claimant",
+    "Initial Estimate"
+  ],
+  "recommendedRoute": "Manual Review",
+  "reasoning": "Manual review required due to missing policy number."
+}

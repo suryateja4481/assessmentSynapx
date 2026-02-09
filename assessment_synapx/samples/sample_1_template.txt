@@ -1,0 +1,15 @@
+Policy Number: PN-2026-0001
+Policyholder Name: Alice Johnson
+Effective Dates: 01/01/2026 - 12/31/2026
+Date of Loss: 02/01/2026
+Time of Loss: 08:30 AM
+Location of Loss: 45 River Road, Springfield
+Description of Loss: Tree fell on parked vehicle during storm; rear quarter panel damaged.
+Claimant: Alice Johnson
+Third Parties: None
+Contact Details: alice.j@example.com, +1-555-0101
+Asset Type: Vehicle
+Asset ID: VINABC1234567890
+Initial Estimate: 18000
+Claim Type: vehicle
+Attachments: photo1.jpg, photo2.jpg

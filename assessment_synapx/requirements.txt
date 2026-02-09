@@ -1,0 +1,7 @@
+
+PyPDF2>=3.0.0
+openai>=0.27.0
+langchain>=0.0.300
+# Groq client (optional). If unavailable, the validator will fall back to OpenAI or deterministic reasoning.
+groq>=0.1.0
+reportlab>=4.0.0  # optional: used by scripts/generate_pdfs.py to create sample PDFs

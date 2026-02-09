@@ -1,0 +1,6 @@
+{"file":"sample_1_template.txt","expected": {"Policy Number":"PN-2026-0001","Claim Type":"vehicle","Initial Estimate":18000}, "expectedRoute": "Fast-track"}
+{"file":"sample_2_template.txt","expected": {"Policy Number":"PN-2026-1002","Claim Type":"injury","Initial Estimate":50000}, "expectedRoute": "Specialist Queue"}
+{"file":"sample_3_template.txt","expected": {"Policy Number":"PN-2026-3003","Claim Type":"vehicle","Initial Estimate":35000}, "expectedRoute": "Investigation Flag"}
+{"file":"sample_4_missing_fields.txt","expected": {"Policy Number":null,"Claim Type":"vehicle","Initial Estimate":null}, "expectedRoute": "Manual Review"}
+{"file":"sample_5_uppercase_form.txt","expected": {"Policy Number":"PN-2026-5005","Claim Type":"property","Initial Estimate":2500}, "expectedRoute": "Fast-track"}
+{"file":"sample_6_minimal.txt","expected": {"Policy Number":"PN-2026-6006","Claim Type":"vehicle","Initial Estimate":null}, "expectedRoute": "Manual Review"}

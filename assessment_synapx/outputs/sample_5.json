@@ -1,0 +1,22 @@
+{
+  "extractedFields": {
+    "Policy Number": "PN-2026-5005",
+    "Policyholder Name": "EMILY WU",
+    "Effective Dates": "02/01/2026 - 01/31/2027",
+    "Date": "02/20/2026",
+    "Time": "11:45 AM",
+    "Location": "9B OAK STREET",
+    "Description": "GARAGE FIRE CAUSED MINOR EXTERIOR DAMAGE TO STORAGE SHED",
+    "Claimant": "EMILY WU",
+    "Third Parties": null,
+    "Contact Details": "emily.w@example.com",
+    "Asset Type": "PROPERTY",
+    "Asset ID": "SHED-001",
+    "Initial Estimate": 2500.0,
+    "Claim Type": "property",
+    "Attachments": "photos.zip"
+  },
+  "missingFields": [],
+  "recommendedRoute": "Fast-track",
+  "reasoning": "Routing to fast-track due to minor exterior damage claim.\n\nMissing fields: None, \nSuspicious fields: Third Parties (null)"
+}
